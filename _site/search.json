@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sistemas Agroforestales (SAF)",
-    "section": "",
-    "text": "Quarto Academic Typst\n\n\nA minimalistic Quarto + Typst template for academic writing\n\n\nAenean placerat luctus tortor vitae molestie. Nulla at aliquet nulla. Sed efficitur tellus orci, sed fringilla lectus laoreet eget. Vivamus maximus quam sit amet arcu dignissim, sed accumsan massa ullamcorper. Sed iaculis tincidunt feugiat. Nulla in est at nunc ultricies dictum ut vitae nunc. Aenean convallis vel diam at malesuada. Suspendisse arcu libero, vehicula tempus ultrices a, placerat sit amet tortor. Sed dictum id nulla commodo mattis. Aliquam mollis, nunc eu tristique faucibus, purus lacus tincidunt nulla, ac pretium lorem nunc ut enim. Curabitur eget mattis nisl, vitae sodales augue. Nam felis massa, bibendum sit amet nulla vel, vulputate rutrum lacus. Aenean convallis odio pharetra nulla mattis consequat. \n\n\n\n\n\nMay 16, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nEfecto de Enfriamiento de la Cobertura Arbórea y su Potencial para la Adaptación del Cambio Climático en Sistemas Agroforestales Cafetaleros\n\n\n\n\n\nEl cambio climático está afectando la producción de café, especialmente en zonas de baja altitud, donde las altas temperaturas y el estrés térmico impactan el desarrollo del cultivo. Los sistemas agroforestales (SAF), al incorporar árboles de sombra, presentan una alternativa para mitigar estos efectos, reduciendo la temperatura del aire, mejorando la retención de humedad y protegiendo el café del estrés térmico.\n\n\n\n\n\nMay 16, 2025\n\n\nUlises Zarate\n\n\n\n\n\n\n\n\n\n\n\n\nSistemas Agroforestales con café\n\n\n\n\n\n\ncafe\n\n\nanalisis\n\n\n\n\n\n\n\n\n\nApr 8, 2025\n\n\nUlises Zarate\n\n\n\n\n\n\n\n\n\n\n\n\nBienvenido a mi blog\n\n\n\n\n\n\nCafe\n\n\n\n\n\n\n\n\n\nApr 5, 2025\n\n\nUlises Zarate\n\n\n\n\n\n\nNo matching items"
+    "objectID": "posts/clase-hoy/ClasePresentacion.html#primera-diapo",
+    "href": "posts/clase-hoy/ClasePresentacion.html#primera-diapo",
+    "title": "Clase de hoy",
+    "section": "Primera diapo",
+    "text": "Primera diapo"
+  },
+  {
+    "objectID": "posts/clase-hoy/ClasePresentacion.html#segunda-diapo",
+    "href": "posts/clase-hoy/ClasePresentacion.html#segunda-diapo",
+    "title": "Clase de hoy",
+    "section": "segunda diapo",
+    "text": "segunda diapo\n\n\n\ninicio"
   },
   {
     "objectID": "about.html",
@@ -12,6 +19,13 @@
     "title": "Autor",
     "section": "",
     "text": "Acerca de mí: Ing. Agronomo por la Universidad Veracruzana."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sistemas Agroforestales (SAF)",
+    "section": "",
+    "text": "Clase de hoy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Typst\n\n\nA minimalistic Quarto + Typst template for academic writing\n\n\nProin sodales neque erat, varius cursus diam tincidunt sit amet. Etiam scelerisque fringilla nisl eu venenatis. Donec sem ipsum, scelerisque ac venenatis quis, hendrerit vel mauris. Praesent semper erat sit amet purus condimentum, sit amet auctor mi feugiat. In hac habitasse platea dictumst. Nunc ac mauris in massa feugiat bibendum id in dui. Praesent accumsan urna at lacinia aliquet. Proin ultricies eu est quis pellentesque. In vel lorem at nisl rhoncus cursus eu quis mi. In eu rutrum ante, quis placerat justo. Etiam euismod nibh nibh, sed elementum nunc imperdiet in. Praesent gravida nunc vel odio lacinia, at tempus nisl placerat. Aenean id ipsum sed est sagittis hendrerit non in tortor. \n\n\n\n\n\nMay 16, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nEfecto de Enfriamiento de la Cobertura Arbórea y su Potencial para la Adaptación del Cambio Climático en Sistemas Agroforestales Cafetaleros\n\n\n\n\n\nEl cambio climático está afectando la producción de café, especialmente en zonas de baja altitud, donde las altas temperaturas y el estrés térmico impactan el desarrollo del cultivo. Los sistemas agroforestales (SAF), al incorporar árboles de sombra, presentan una alternativa para mitigar estos efectos, reduciendo la temperatura del aire, mejorando la retención de humedad y protegiendo el café del estrés térmico.\n\n\n\n\n\nMay 16, 2025\n\n\nUlises Zarate\n\n\n\n\n\n\n\n\n\n\n\n\nSistemas Agroforestales con café\n\n\n\n\n\n\ncafe\n\n\nanalisis\n\n\n\n\n\n\n\n\n\nApr 8, 2025\n\n\nUlises Zarate\n\n\n\n\n\n\n\n\n\n\n\n\nBienvenido a mi blog\n\n\n\n\n\n\nCafe\n\n\n\n\n\n\n\n\n\nApr 5, 2025\n\n\nUlises Zarate\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",

@@ -1,0 +1,14 @@
+---
+title: "Clase de hoy"
+format:
+  revealjs:
+    footer: "[inicio](../../index.qmd)"
+  pptx: default
+---
+
+## Primera diapo
+
+### ![](img/image.jpg)
+
+
+## segunda diapo
