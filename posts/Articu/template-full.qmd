@@ -1,18 +1,18 @@
 ---
-title: Quarto Academic Typst
-subtitle: A Minimalistic Quarto + Typst Template for Academic Writing
-header: Please click [HERE](https://kazuyanagimoto.com/quarto-academic-typst/template-full.pdf) for the latest version.
+title: Efecto de Enfriamiento de la Cobertura Arbórea y su Potencial para la Adaptación del Cambio Climático en Sistemas Agroforestales Cafetaleros
+
 author:
   - name: Ulises Zarate
     email: zsuyzu.u@gmail.com
     affiliations:
       - name: Universidad Veracruzana
-abstract: |
- Las pizzas son muy sabrosas.
+
+abstract: "El cambio climático está afectando la producción de café, especialmente en zonas de baja altitud, donde las altas temperaturas y el estrés térmico impactan el desarrollo del cultivo. Los sistemas agroforestales (SAF), al incorporar árboles de sombra, presentan una alternativa para mitigar estos efectos, reduciendo la temperatura del aire, mejorando la retención de humedad y protegiendo el café del estrés térmico."
+
 thanks: |
   This template is inspired by Kieran Healy's [LaTeX and Rmd template](https://github.com/kjhealy/latex-custom-kjh) and
   Andrew Heiss's [Hikmah Quarto template](https://github.com/andrewheiss/hikmah-academic-quarto).
-keywords: [Café, Cambio climático, sombras]
+keywords: [Cobertura arbórea, Agroforestería, Multiestrato, Cafeticultura, Microclima, Prácticas Agroforestales.]
 date: today
 date-format: full
 bibliography: references.bib
@@ -23,7 +23,7 @@ format:
     mainfont: "Libertinus Serif"
     sansfont: Jost
     mathfont: "Libertinus Math"
-    bibliographystyle: "chicago-author-date"
+    bibliographystyle: "american-psychological-association"
     include-in-header:
       - text: '#import "@preview/mitex:0.2.4": *'
 execute: 
@@ -288,6 +288,6 @@ The second section in the appendix will be "B".
 On the other hand, the figure numbering will be reset to "A.1", "A.2" so that it is clear that these figures are part of the appendix.
 The "A" stands for the "Appendix", not the section numbering.
 
-![**The Great Wave off Kanagawa**. A woodblock print by @katsushika1831.](img/hokusai_kanagawa.jpg){#fig-img}
+![**The Great Wave off Kanagawa**. A woodblock print by @katsushika1831.](https://www.gastrolabweb.com/u/fotografias/m/2021/8/11/f1280x720-17410_149085_5050.jpg){#fig-img fig-align="center"}
 
 {{< pagebreak >}}
