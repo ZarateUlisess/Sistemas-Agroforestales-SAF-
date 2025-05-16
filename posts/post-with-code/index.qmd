@@ -1,13 +1,8 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "Sistemas Agroforestales con café"
+author: "Ulises Zarate"
 date: "2025-04-08"
-categories: [news, code, analysis]
-image: "image.jpg"
+categories: [cafe, analisis]
+image: "Cafe3.png"
 ---
-
-This is a post with executable code.
-
-```{r}
-1 + 1
-```
+Los sistema agroforestales con café, combinan plantas de café con arboles de sombra, creando un entorno mas diverso y resiliente.

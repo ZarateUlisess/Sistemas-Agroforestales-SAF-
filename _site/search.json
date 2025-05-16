@@ -4,27 +4,20 @@
     "href": "index.html",
     "title": "Sistemas Agroforestales (SAF)",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 8, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 5, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "Quarto Academic Typst\n\n\nA minimalistic Quarto + Typst template for academic writing\n\n\nUt ut condimentum augue, nec eleifend nisl. Sed facilisis egestas odio ac pretium. Pellentesque consequat magna sed venenatis sagittis. Vivamus feugiat lobortis magna vitae accumsan. Pellentesque euismod malesuada hendrerit. Ut non mauris non arcu condimentum sodales vitae vitae dolor. Nullam dapibus, velit eget lacinia rutrum, ipsum justo malesuada odio, et lobortis sapien magna vel lacus. Nulla purus neque, hendrerit non malesuada eget, mattis vel erat. Suspendisse potenti. \n\n\n\n\n\nMay 16, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Typst\n\n\nA Minimalistic Quarto + Typst Template for Academic Writing\n\n\nLas pizzas son muy sabrosas. \n\n\n\n\n\nMay 16, 2025\n\n\nUlises Zarate\n\n\n\n\n\n\n\n\n\n\n\n\nSistemas Agroforestales con café\n\n\n\n\n\n\ncafe\n\n\nanalisis\n\n\n\n\n\n\n\n\n\nApr 8, 2025\n\n\nUlises Zarate\n\n\n\n\n\n\n\n\n\n\n\n\nBienvenido a mi blog\n\n\n\n\n\n\nCafe\n\n\n\n\n\n\n\n\n\nApr 5, 2025\n\n\nUlises Zarate\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Autor",
     "section": "",
-    "text": "About this blog"
+    "text": "Acerca de mí: Ing. Agronomo por la Universidad Veracruzana."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Sistemas Agroforestales con café",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Los sistema agroforestales con café, combinan plantas de café con arboles de sombra, creando un entorno mas diverso y resiliente."
   }
 ]
