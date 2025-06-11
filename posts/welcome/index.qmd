@@ -3,6 +3,8 @@ title: "Bienvenido a mi blog"
 author: "Ulises Zarate"
 date: "2025-04-05"
 categories: [Cafe]
+lang: es
+theme: united
 ---
 
 
