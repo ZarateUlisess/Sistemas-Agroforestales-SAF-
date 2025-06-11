@@ -1,5 +1,5 @@
 ---
-title: Efecto de Enfriamiento de la Cobertura Arbórea y su Potencial para la Adaptación del Cambio Climático en Sistemas Agroforestales Cafetaleros
+title: Efecto de Enfriamiento de la sombra proyectada por la Cobertura Arbórea en Sistemas Agroforestales Cafetaleros.
 
 author:
   - name: Ulises Zarate
@@ -7,11 +7,8 @@ author:
     affiliations:
       - name: Universidad Veracruzana
 
-abstract: "El cambio climático está afectando la producción de café, especialmente en zonas de baja altitud, donde las altas temperaturas y el estrés térmico impactan el desarrollo del cultivo. Los sistemas agroforestales (SAF), al incorporar árboles de sombra, presentan una alternativa para mitigar estos efectos, reduciendo la temperatura del aire, mejorando la retención de humedad y protegiendo el café del estrés térmico."
+abstract: "El cambio climático está afectando la producción de café, especialmente en zonas de baja altitud donde el aumento de temperatura genera estrés térmico que impacta negativamente al desarrollo de las plantas. Los sistemas agroforestales, al integrar árboles que proporcionan sombra, representan una alternativa viable para mitigar estos efectos al reducir la temperatura del aire y suelo, conservar la humedad y, por lo tanto, proteger el cultivo. No obstante, existe poca información sobre cómo varía este efecto de enfriamiento dentro de los Sistemas Agroforestales Cafetaleros (SAFC) según la altitud, la época del año y el porcentaje de sombra. Este estudio busca generar conocimiento para optimizar el manejo de la cobertura arbórea en los SAFC fortaleciendo la resiliencia al cambio climático de la zona central de Veracruz. Se seleccionarán 20 fincas cafetaleras de un gradiente altitudinal entre 1100 y 1,600 msnm. En cada finca se delimitará una hectárea de estudio, con 10 puntos de muestreo distribuidos a 15 metros del borde y separados entre sí por al menos 30 metros. En cada punto se registrarán las variables: temperatura del aire, humedad relativa, radiación fotosintéticamente activa (PAR), dosel vegetal y porcentaje de sombra. Las mediciones se realizarán en tres épocas del año: lluviosa, seca fría y seca cálida, sumando 600 observaciones (n=600). Cada dato tomado será sincronizado con una lectura en un espacio sin cobertura arbórea, como testigo. Además, se utilizarán los datos de WorldClim como referencia para contexto. El análisis estadístico se llevará a cabo en XLSTAT mediante modelos lineales mixtos, regresiones múltiples, análisis descriptivo y multivariado. Los sitios con mayor porcentaje de sombra presentan temperaturas más bajas, manteniéndose dentro del rango óptimo para el café (18–22 °C), especialmente en zonas de menor altitud. También se prevé identificar un rango óptimo de sombra que maximice el efecto de enfriamiento sin afectar la producción, pudiendo llegar a dar recomendaciones prácticas como especies a utilizar y porcentaje de sombra para condiciones específicas. Los resultados permitirán establecer la relación entre cobertura arbórea, altitud y microclima. Este trabajo generará recomendaciones prácticas para productores sobre el manejo arbóreo en SAFC."
 
-thanks: |
-  This template is inspired by Kieran Healy's [LaTeX and Rmd template](https://github.com/kjhealy/latex-custom-kjh) and
-  Andrew Heiss's [Hikmah Quarto template](https://github.com/andrewheiss/hikmah-academic-quarto).
 keywords: [Cobertura arbórea, Agroforestería, Multiestrato, Cafeticultura, Microclima, Prácticas Agroforestales.]
 date: today
 date-format: full
@@ -96,21 +93,27 @@ theme_quarto <- function(font_title = font_base_regular,
 }
 ```
 
-# Section as Heading Level 1
+# **Introducción**
 
-Section numbering can be specified in the YAML `section-numbering` field as other Typst templates.
+El cambio climático es uno de los principales desafíos ambientales que enfrenta la agricultura global.
+En particular, el cultivo de café, altamente sensible a las variaciones de temperatura y humedad, se ve amenazado por el aumento de temperaturas, la variabilidad en las lluvias y la incidencia de eventos climáticos extremos, como sequías e inundaciones(Bunn, Läderach, Rivera, & Kirschke, 2014; DaMatta & Ramalho, 2006).
+En México, el café es fundamental para la economía rural y la seguridad alimentaria de muchas comunidades, por lo que el impacto del cambio climático sobre este cultivo podría afectar gravemente tanto a los agricultores como a la biodiversidad de las regiones cafetaleras (Gay, Estrada, Conde, Eakin, & Villers, 2006)
 
-## Subsection as Heading Level 2
+Según el Panel Intergubernamental del Cambio Climático (IPCC, 2021) la temperatura media global ha incrementado 1.1 °C desde el período 1850-1900.
+Este aumento continúa y ha acrecentado la ocurrencia de fenómenos climáticos extremos(Hao, AghaKouchak, Nakhjiri, & Farahmand, 2014), destacando temperaturas cada vez más altas, la disminución de la frecuencia de temperaturas bajas y cambios en la cantidad, intensidad y frecuencia de eventos de precipitación(Schroth, Fonseca, & Harvey, 2010) (Aguilar et al., 2005; Omondi, Ogallo, Anyah, Muthama, & Ininda, 2012; Supari et al., 2020).
+ Las proyecciones climáticas indican un aumento significativo de la temperatura global, lo cual afectará en particular a las zonas cafetaleras de baja altitud (Gay et al., 2006; Lara-Estrada, Rasche, & Schneider, 2023; Pham, Reardon-Smith, Mushtaq, & Cockfield, 2019; Rokhmah, Supriadi, & Heryana, 2023; Götz Schroth, Läderach, Blackburn Cuero, Neilson, & Bunn, 2015)., poniendo en riesgo la sostenibilidad de este cultivo.
 
-You can use LaTeX math expressions:
+Los sistemas agroforestales cafetaleros (SAFC) representan una alternativa potencial de adaptación ante los efectos del cambio climático (Gomes et al., 2020; S Jose, Gillespie, & Pallardy, 2004; Muschler, 2001).
+Sin embargo, la efectividad de estos sistemas puede depender de varios factores geográficos y medioambientales  (Parada-Molina, Barradas-Miranda, Ortiz, Cervantes-Pérez, & Cerdán, 2022).
 
-$$
-Y_{it} = \alpha_i + \lambda_t + \sum_{k \neq -1} \tau_h \mathbb{1}\{E_i + k = t\} +
-\varepsilon_{it}.
-$$
+## **Marco teórico-conceptual**
 
-I choose a mathematical font which supports the indicator function $\mathbb{1}\{\cdot\}$.
-Currently, I use the {{< meta mathfont >}} font.
+**(**El cambio climático es un fenómeno global que afecta a los ecosistemas y las actividades humanas, incluyendo la agricultura. A nivel mundial, la temperatura media ha aumentado aproximadamente 1.1 °C desde la era preindustrial, debido principalmente a las actividades humanas como la quema de combustibles fósiles y la deforestación (Friedlingstein et al., 2020; Intergovernmental Panel on Climate Change (IPCC), 2021).
+Este incremento en las temperaturas está intensificando eventos climáticos extremos como sequías, lluvias torrenciales y olas de calor, que afectan la disponibilidad de agua, la fertilidad del suelo y la productividad de los cultivos (Lobell et al., 2008; Wheeler & von Braun, 2013).
+
+En el sector agrícola, el cambio climático no solo reduce el rendimiento de los cultivos, sino que también altera los patrones de distribución y desarrollo de plagas y enfermedades.
+Esto es particularmente problemático en los países en desarrollo, donde la agricultura representa una parte importante de la economía y una fuente principal de alimentos y empleo (Altieri & Nicholls, 2013).
+Los escenarios de cambio climático indican que, sin estrategias de adaptación efectivas, las pérdidas en la producción agrícola podrían incrementarse en las próximas décadas, afectando tanto la seguridad alimentaria como el bienestar socioeconómico (IPCC, 2021).
 
 ### Subsubsection as Heading Level 3
 
